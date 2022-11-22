@@ -1,0 +1,11 @@
+{
+  "interface" : {},
+  "handlers" : ["relevance", "grid", "cell"],
+  "cache" : {
+    "controller" : "redis",
+    "host" : "10.130.0.31",
+    "port" : "16379",
+    "user" : "",
+    "password" : "redis-password"
+  }
+}
